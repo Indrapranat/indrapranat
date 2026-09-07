@@ -46,7 +46,7 @@ My main interests include:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -80,21 +80,9 @@ My main interests include:
 ---
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=indrapranat&show_icons=true&hide_border=true&locale=en"
-    height="170"
-    alt="GitHub Stats"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=indrapranat&layout=compact&hide_border=true&locale=en"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
 
 <p align="center">
   <img
