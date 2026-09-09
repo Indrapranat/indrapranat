@@ -79,15 +79,22 @@ My main interests include:
 
 ---
 
+## 📊 GitHub Stats & Most Used Languages
 
-##  GitHub Stats
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Top+Language%3A+JavaScript+(56.6%25);%F0%9F%90%98+Backend+Core%3A+PHP+(16.5%25);%F0%9F%8C%90+Web+Foundations%3A+HTML+%26+CSS+(22.2%25);%F0%9F%8E%AF+Mobile%3A+Dart+%26+Flutter+(4.7%25)" alt="Language Breakdown" />
+  </a>
+</p>
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=indrapranat&hide_border=true"
     alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrapranat&layout=compact&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
