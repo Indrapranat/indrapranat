@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Indra Pranata</h1>
-
 <p align="center">
-  <strong>Full-Stack Developer · Indonesia</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,70:1e3a8a,100:0284c7&height=180&section=header&text=Indra%20Pranata&fontSize=42&fontAlign=50&fontAlignY=38" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  Building practical web applications with modern technologies.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+there!+I'm+Indra+Pranata+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+practical+web+applications+%F0%9F%9A%80;Calm+mind.+Clean+code.+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
