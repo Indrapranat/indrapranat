@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,70:1e3a8a,100:0284c7&height=180&section=header&text=Indra%20Pranata&fontSize=42&fontAlign=50&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000,70:1e3a8a,100:0284c7&height=180&section=header&text=Indra%20Pranata&fontSize=42&fontAlign=50&fontAlignY=38" width="100%" alt="Header" />
 </p>
 
 <p align="center">
